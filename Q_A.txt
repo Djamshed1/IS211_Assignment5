@@ -1,0 +1,5 @@
+Question:
+After running both simulations, what are the results do you see? How does each simulation differ in its average latency?
+
+Answer:
+After running both simulations, I notice that the wait time depends on the amount of servers. Sometimes it's longer or sometimes smaller. When we Add more servers, it cuts the average latency wait time.
